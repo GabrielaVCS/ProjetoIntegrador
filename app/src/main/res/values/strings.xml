@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Eleições</string>
+    <string name="erro_login">Poxa não foi dessa vez, alguma coisa ta errada :(</string>
+    <string name="campo_obrigatorio">Preencha os campos obrigatórios</string>
+    <string name="confimacao_campo">Os campos não conferem</string>
+</resources>
